@@ -1,0 +1,6 @@
+using API;
+
+
+VulneratAPI.InjectGame();
+VulneratAPI.ExecuteSync();
+ClientSidedFuns.Fire();

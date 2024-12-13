@@ -1,0 +1,6 @@
+C:\Users\EnderPearl\source\repos\Vunlera API\Vunlera API\bin\Debug\Vunlera API.dll
+C:\Users\EnderPearl\source\repos\Vunlera API\Vunlera API\bin\Debug\Vunlera API.pdb
+C:\Users\EnderPearl\source\repos\Vunlera API\Vunlera API\obj\Debug\API.csproj.AssemblyReference.cache
+C:\Users\EnderPearl\source\repos\Vunlera API\Vunlera API\obj\Debug\API.csproj.CoreCompileInputs.cache
+C:\Users\EnderPearl\source\repos\Vunlera API\Vunlera API\obj\Debug\Vunlera API.dll
+C:\Users\EnderPearl\source\repos\Vunlera API\Vunlera API\obj\Debug\Vunlera API.pdb
